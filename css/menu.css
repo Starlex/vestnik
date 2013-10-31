@@ -76,7 +76,6 @@ ul.sf-menu li li li.sfHover ul {
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    behavior:url(/PIE/PIE.htc);
 	background:		#CFDEFF;
 	outline:		0;
 }
@@ -133,13 +132,11 @@ li.sfHover > a > .sf-sub-indicator {
     -webkit-border-radius: 10px 10px 0 0;
     -moz-border-radius: 10px 10px 0 0;
     border-radius: 10px 10px 0 0;
-    behavior:url(/PIE/PIE.htc);
 }
 .lowerbord, .lowerbord a:hover{
     -webkit-border-radius: 0 0 10px 10px;
     -moz-border-radius: 0 0 10px 10px;
     border-radius: 0 0 10px 10px;
-    behavior:url(/PIE/PIE.htc);
 }
 .middlebord, .middlebord a:hover{
     -webkit-border-radius: 0;

@@ -22,7 +22,6 @@ body{
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    behavior:url(/PIE/PIE.htc);
     width: 1150px;
     left: 50%;
     margin-left: -575px;
@@ -75,7 +74,6 @@ body{
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    behavior:url(/PIE/PIE.htc);
     * z-index: -1;
     * padding-bottom: 50px;
 }
@@ -157,7 +155,6 @@ img, a{
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    behavior:url(/PIE/PIE.htc);
     position:relative;
     width: 1150px;
     left: 50%;
@@ -170,7 +167,6 @@ img, a{
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    behavior:url(/PIE/PIE.htc);
     padding-left: 25px;
     position:relative;
     width:1150px;
